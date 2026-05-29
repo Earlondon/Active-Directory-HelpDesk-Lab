@@ -11,7 +11,7 @@ I built a virtual home lab environment to simulate a corporate IT infrastructure
 ## Lab Setup & Architecture
 1. Installed Oracle VM VirtualBox on my host gaming PC.
 2. Configured a Virtual Machine with Windows Server 2022.
-3. Promoted the server to a Domain Controller for the local domain: `contoso.local`.
+3. Promoted the server to a Domain Controller for the local domain: `Koka.local`.
 
 ## Helpdesk Scenarios Simulated
 ### 1. Active Directory User Provisioning
@@ -23,6 +23,10 @@ I built a virtual home lab environment to simulate a corporate IT infrastructure
 ### 2. Password Resets and Account Lockouts
 * Simulated a user forgetting their password.
 * Practiced unlocking accounts and forcing password changes at the next login.
+<img width="1487" height="751" alt="image" src="https://github.com/user-attachments/assets/2993f51a-e2ea-4ed2-a7aa-e36bb682b3c7" />
+
+<img width="1487" height="751" alt="image" src="https://github.com/user-attachments/assets/d53d4b93-65ac-418f-af05-c4d877221b96" />
+
 
 ## What I Learned
 * How to navigate Windows Server Manager and Active Directory Administrative Center.
