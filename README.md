@@ -25,7 +25,6 @@ I built a virtual home lab environment to simulate a corporate IT infrastructure
 * Practiced unlocking accounts and forcing password changes at the next login.
 <img width="1487" height="751" alt="image" src="https://github.com/user-attachments/assets/2993f51a-e2ea-4ed2-a7aa-e36bb682b3c7" />
 
-<img width="1487" height="751" alt="image" src="https://github.com/user-attachments/assets/d53d4b93-65ac-418f-af05-c4d877221b96" />
 
 
 ## What I Learned
