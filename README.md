@@ -18,6 +18,8 @@ I built a virtual home lab environment to simulate a corporate IT infrastructure
 * Created an Organizational Unit (OU) structure for different departments (HR, IT, Sales).
 * Generated 10 unique employee user accounts with standardized naming conventions.
 
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/091abffb-caa1-42c9-8450-4abdc91fbbed" />
+
 ### 2. Password Resets and Account Lockouts
 * Simulated a user forgetting their password.
 * Practiced unlocking accounts and forcing password changes at the next login.
